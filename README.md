@@ -1,7 +1,9 @@
 # Funeral Home Ordering System - LifeSeQueL
 
 Authors: Jan Chlebek
+
 Planing, development and implementation of the main project took about 5 days (1.5 of which is the application implementation itself)
+
 SQL files created during classes are included in subfolder
 
 ## Setup
