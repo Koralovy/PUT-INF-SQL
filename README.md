@@ -12,7 +12,26 @@ Target system: Microsoft Power Apps Canvas + Azure SQL database
 2. Run `SQL_database_generator.sql` in your own database
 3. Import `LifeSeQueL.zip` file as Canvas App
 4. Add connections to all created tables in your app and publish it as standar Power App or Teams App.
+5. Sample client credentials: client client, sample admin credentials: admin, admin
 
-## Sample photos
+## Project photos
+- Database relational diagram
+![](images/Relational_diagram.png)
+
+- login screen
 ![](images/Login_form.png)
-![](./Screenshot2.png)
+
+- New account form
+![](images/New_user_form.png)
+
+- User order form
+![](images/Order_form.png)
+
+- User menu main view
+![](images/User_menu.png)
+
+- Admin menu main view
+![](images/Admin_menu.png)
+
+- Admin SQL table editor
+![](images/Admin_database_edit.png)
